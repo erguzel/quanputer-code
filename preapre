@@ -6,7 +6,9 @@ source env/bin/activate
 
 pip3 install --upgrade pip
 
-pip3 install qiskit
-pip3 install jupyter
+pip3 install qiskit --no-cache-dir
+pip3 install jupyter --no-cache-dir
+
+
 
 

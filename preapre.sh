@@ -19,3 +19,5 @@ pip3 install pylatexenc --no-cache-dir
 ## qiskit visualisations for mac in quotes
 pip3 install 'qiskit[visualization]'
 
+
+source env/bin/activate
